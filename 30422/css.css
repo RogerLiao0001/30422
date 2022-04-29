@@ -1,0 +1,56 @@
+body{
+
+background-color: #e7c79e;
+
+
+}
+h1{
+
+text-align:center;
+font-size:250%;
+
+}
+h2{
+
+text-align:center;
+font-size:125%;
+color:#35211b;
+
+}
+
+a:link
+{
+
+color:#8b230e;
+background-color:#c9aa81;
+text-align:center;
+padding:6px;
+text-decoration:none;
+border-radius: 25px;
+font-size:110%
+
+}
+a:visited
+{
+color:#35211b
+}
+a:hover
+{
+color:#c76d3b
+}
+
+#a {text-align:center;
+ }
+
+.b { width:80%;
+    margin:auto;
+  background-color: #d3a370
+ }
+
+ h3{
+
+ text-align:center;
+ font-size:145%;
+ color:#35211b;
+
+ }
